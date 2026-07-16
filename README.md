@@ -21,8 +21,8 @@ This repository contains the source code required to integrate plant migration p
 
 ```text
 ├── src/             # Source code
-├── input/           # Input data and parameters
-├── output/          # Simulation outputs
+├── input_example/   # Example of input data and parameters
+├── input_ori_example/         # Example of input data and parameters of the original version
 ├── docs/            # Documentation
 └── README.md
 ```
