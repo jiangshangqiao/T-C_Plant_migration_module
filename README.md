@@ -1,4 +1,4 @@
-# T-C_Plant-migration-module
+# T-C_Plant_migration_module
 Source code for the plant migration module in the T&C model.
 
 ## Overview
@@ -40,7 +40,7 @@ This repository contains the source code required to integrate plant migration p
 Clone the repository 
 
 ```bash
-git clone https://github.com/jiangshangqiao/T-C_Plant-migration-module.git
+git clone https://github.com/jiangshangqiao/T-C_Plant_migration_module.git
 ```
 
 Integrate the module into the T&C model according to your project workflow.
